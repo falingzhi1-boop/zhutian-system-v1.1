@@ -1,0 +1,38 @@
+{
+  "originalHelperBytes": 678163,
+  "originalRegexBytes": 264632,
+  "remoteFiles": {
+    "assistant-v1.1.js": {
+      "bytes": 666045,
+      "sha256": "6c844bd92ec6d4aa4d6210ed6b76054ea370c23bd0eb8fc02967d7205e978cd0"
+    },
+    "statusbar-v3.1-part1.js": {
+      "bytes": 253,
+      "sha256": "0b580f29d0e8ffe76a71c3d878fcc82ad9a55698a0e0a1a229782c02475e555d"
+    },
+    "statusbar-v3.1-part2.js": {
+      "bytes": 144467,
+      "sha256": "8c4b64c100f15cb1c8765a842e3675ff97ca2294f528149c25f90e4e1146f8c8"
+    },
+    "statusbar-v3.1-part3.js": {
+      "bytes": 952,
+      "sha256": "43ace54aeded6516d8ab5dc1f38bd26d0a01fc0f2144be1e0311b9f964b1498f"
+    },
+    "statusbar-v3.1.css": {
+      "bytes": 60511,
+      "sha256": "f8dc62c27c20707f31d74727400be348222396a21af891b7370371a4c7513257"
+    }
+  },
+  "baseUrl": "https://cdn.jsdelivr.net/gh/falingzhi1-boop/zhutian-system-v1.1@main",
+  "loaderFiles": {
+    "脚本-诸天系统-独立记忆助手-v1.1-联网加载.json": {
+      "bytes": 3861,
+      "sha256": "dbeefc2ecb02890c16ce4ee653b2ecbb35829aabaf84b1e8e77aae7ec4c4a5ed"
+    },
+    "正则-诸天万界最强系统状态栏3_1-联网加载.json": {
+      "bytes": 52080,
+      "sha256": "d58dca5ce82d68df4bd26e29fbff6ec739f36468f3b1a4ca6a760c5f18ac5529"
+    }
+  },
+  "staticRoundTrip": "pass"
+}

@@ -1,0 +1,3 @@
+*.json -text
+remote/*.js -text
+remote/*.css -text

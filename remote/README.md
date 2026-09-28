@@ -1,1 +1,1 @@
-SillyTavern 联网加载源码。由 tools/build-remote-loader.mjs 从 v1.1 原版 JSON 提取。
+SillyTavern 联网加载源码，从 v1.1 原版 JSON 提取。两个小型导入 JSON 仅在作者本地保存。

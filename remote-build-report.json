@@ -23,15 +23,15 @@
       "sha256": "f8dc62c27c20707f31d74727400be348222396a21af891b7370371a4c7513257"
     }
   },
-  "baseUrl": "https://falingzhi1-boop.github.io/zhutian-system-v1.1",
+  "baseUrl": "https://fastly.jsdelivr.net/gh/falingzhi1-boop/zhutian-system-v1.1@7609dd1d8f58cd0c2d19813d2c2ad7cc4aab1eb8",
   "loaderFiles": {
     "脚本-诸天系统-独立记忆助手-v1.1-联网加载.json": {
-      "bytes": 3846,
-      "sha256": "55afe7094dc34f3980baf9fed86394b1bbf5e8615ff55d62540146828a7bb2e5"
+      "bytes": 3900,
+      "sha256": "c1e304ff71d02111c2dd5c83cb378c68f019e2cd454621fc0d483e48b8d3e39c"
     },
     "正则-诸天万界最强系统状态栏3_1-联网加载.json": {
-      "bytes": 52020,
-      "sha256": "3d30308bb3a05ec8584d92b00436933b42bd1b45a73722450eca92ade392420f"
+      "bytes": 52236,
+      "sha256": "11e0dbe5c84db2126778e99be34d76e24ecfec1d882f26e93ab95b170e8ee6c8"
     }
   },
   "staticRoundTrip": "pass"
